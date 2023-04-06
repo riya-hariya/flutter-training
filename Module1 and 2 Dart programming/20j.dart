@@ -3,8 +3,7 @@ import 'dart:io';
 void main()    
 {    
     //declaring variables
-    int lastdigit=0,firstdigit,sum;
-    double n;
+    double n,lastdigit=0,firstdigit=0,sum;
 
     //prompt message  
     print("Enter a number: ");    
@@ -17,5 +16,6 @@ void main()
     }
       firstdigit=n;
       sum=firstdigit+lastdigit;
-      print("sum=$sum");
+      int result = sum.toInt();
+      print("sum=$result");
 }   
