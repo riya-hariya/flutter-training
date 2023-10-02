@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056262170284",
+    "project_id": "wall-tutorial-3b425",
+    "storage_bucket": "wall-tutorial-3b425.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056262170284:android:54e810e8d074fd25ba2109",
+        "android_client_info": {
+          "package_name": "com.example.social_media_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnzfYuDaKM6pbox1ivHAzMUMn96EmW5no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
