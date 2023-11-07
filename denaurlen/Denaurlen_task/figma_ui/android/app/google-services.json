@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "243389482609",
+    "firebase_url": "https://riyasproject-10c5a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "riyasproject-10c5a",
+    "storage_bucket": "riyasproject-10c5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243389482609:android:cdb63a9dbb1a760d93fdd0",
+        "android_client_info": {
+          "package_name": "com.example.figma_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3bEHk3FtX9DctVxpfLByvvy2oxBHeXJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
